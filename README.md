@@ -1,5 +1,9 @@
 # Teachable Machine 
 ## About
+
+[![Run on Repl.it](https://repl.it/badge/github/ibeakanmaj/teachable-machine-v1)](https://repl.it/github/ibeakanmaj/teachable-machine-v1)
+
+
 Teachable Machine is an experiment that makes it easier for anyone to explore machine learning, live in the browser – no coding required. Learn more about the experiment and try it yourself on [g.co/teachablemachine](https://g.co/teachablemachine). 
 
 The experiment is built using the [TensorFlow.js](https://js.tensorflow.org/) library.
